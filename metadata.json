@@ -1,0 +1,6 @@
+{
+  "name": "UniLab IDE & Student Lab Session Sentinel",
+  "description": "Unified laboratory IDE for C, Python, and Java with USN student authentication, live compile counters, active time tracking, paste detection, and teacher performance monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
